@@ -21,7 +21,8 @@ export const styles = {
       borderStyle: 'double',
       borderColor: 'black',
       background: '#fffff0',
-      width: '100%',
+      width:'320px',
+      height:'380px',
       
          
     },
@@ -41,6 +42,7 @@ export const styles = {
       borderStyle: 'solid',
       borderColor: 'black',
       padding: '20px',
+      paddingTop: '25px',
       background: '#ff0000',
       width:'400px',
       height:'450px',
